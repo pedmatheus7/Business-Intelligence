@@ -1,6 +1,5 @@
 # Portf-lio
-Portfólio de trabalhos nos tópicos de  Business Intelligence , Data Science e Finanças Corporativas
-Aqui ficam salvos meus projetos pessoais.
+Portfólio de trabalhos nos tópicos de  Business Intelligence , Data Science e Finanças Corporativas. Aqui ficam salvos meus projetos nessas áreas.
 
 Um pequeno storytelling meu:
 
