@@ -1,6 +1,6 @@
 # Portifólio de Pedro d'Oliveira
 
-Portfólio de trabalhos nos tópicos de  Business Intelligence , Data Science e Finanças Corporativas. Aqui ficam salvos meus projetos nessas áreas.
+Portfólio de trabalhos nos tópicos de Data Visualization (Data Viz). Aqui ficam salvos meus projetos nessas áreas.
 
 Um pequeno storytelling meu:
 
