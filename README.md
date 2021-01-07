@@ -1,6 +1,6 @@
 # Portifólio de Pedro d'Oliveira
 
-Portfólio de trabalhos nos tópicos de Bussiness Intelligence e Data Science. Aqui ficam salvos meus projetos nessas áreas.
+Portfólio de trabalhos nos tópicos de Bussiness Intelligence. Aqui ficam salvos meus projetos nessa área.
 
 Um pequeno storytelling meu:
 
